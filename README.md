@@ -1,8 +1,29 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Whatsapp-clone-frontend
+- A web apllication developed using React.js framework.
+- Firebase is used for deployment purposes.
+- Dependencies of the prject are:
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "axios": "^0.20.0",
+    "pusher-js": "^7.0.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.3"  
+- By using this app an user can view all the messages from all the members of chat room.
+- As well as user can also send and receive messages on it.
+- This web application is hosted on https://my-whatsapp-clone-a8f82.web.app/
+  <b>Note: <b>For now application is still in development phase, more functionalities will be added in the app in future 
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+Intall all the dependencies for the app<br />
 
 ### `npm start`
 
