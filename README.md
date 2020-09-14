@@ -15,7 +15,8 @@
 - By using this app an user can view all the messages from all the members of chat room.
 - As well as user can also send and receive messages on it.
 - This web application is hosted on https://my-whatsapp-clone-a8f82.web.app/
-  <b>Note: <b>For now application is still in development phase, more functionalities will be added in the app in future 
+  
+  <b>Note: </b>For now application is still in development phase, more functionalities will be added in the app in future 
 
 ## Available Scripts
 
